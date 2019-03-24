@@ -1,6 +1,6 @@
 # faker
 
-Golang Faker module 
+Golang Faker module
 
 **Faker** is a go module that generates fake data for you. Whether you need to boostrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production server, Faker is for you.
 
